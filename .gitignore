@@ -1,0 +1,11 @@
+
+*.o
+*.ko
+*.mod*
+*.symvers
+*.order
+.*.cmd
+.tmp_versions/
+guest-armv8/guest.elf
+host-kvm/nano_vmm
+tests/test_suite
